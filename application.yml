@@ -1,0 +1,7 @@
+cloud:
+  aws:
+    credentials:
+      profile-name: sqs_demo
+    region:
+      static: us-east-1
+      auto: false
